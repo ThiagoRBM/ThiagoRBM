@@ -16,6 +16,14 @@ Tenho estudado mais "formalmente" python. Fiz o curso Python Base da LinuxTips e
 ######
 Tenho bastante interesse em Rust. Um dia chego nesse nível.
 ######
+Gosto de redes sociais em geral e apesar de ser muito na minha e quase nunca falar, frequento várias:
+######
+[Mastodon](https://mastodon.social/@ThiagoRBM)  
+[Twtitter](https://twitter.com/ThiagoRBM)  
+[Instagram](https://www.instagram.com/thiago_rbm)  
+[INaturalist](https://www.inaturalist.org/people/thiagorbm)  
+
+
 
 <!--
 **ThiagoRBM/ThiagoRBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
