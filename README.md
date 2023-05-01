@@ -20,7 +20,7 @@ Gosto de redes sociais em geral e apesar de ser muito na minha e quase nunca fal
 ######
 [Mastodon](https://mastodon.social/@ThiagoRBM)  
 [Twtitter](https://twitter.com/ThiagoRBM)  
-[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/thiago_rbm)  
+[Intsgaram](https://www.instagram.com/thiago_rbm)  
 [INaturalist](https://www.inaturalist.org/people/thiagorbm)  
 
 
