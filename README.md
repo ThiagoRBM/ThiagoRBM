@@ -16,18 +16,23 @@ Tenho estudado mais "formalmente" python. Fiz o curso Python Base da LinuxTips e
 ######
 Tenho bastante interesse em Rust. Um dia chego nesse nível.
 ######
-Gosto de redes sociais em geral e apesar de ser muito na minha e quase nunca falar, frequento várias:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorbm&layout=compact&theme=dark"/>
+
+---
+  
+Formação acadêmica, publicações e etc:  
+######
+[![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2373-9647)
+[![Lattes](https://img.shields.io/badge/lattes-318ADF?style=for-the-badge&logo=lattest&logoColor=white)](http://lattes.cnpq.br/0930415350491316)
+  
+---
+  
+ Gosto de redes sociais em geral e apesar de ser muito na minha e quase nunca falar, frequento várias:
 ######
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/@ThiagoRBM)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@ThiagoRBM)
 [![Intsgaram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago_rbm/)
 [![INaturalist](https://img.shields.io/badge/inaturalist-74AC00?style=for-the-badge&logo=inaturalist&logoColor=white)](https://www.inaturalist.org/people/thiagorbm)  
-
-Formação acadêmica, publicações e etc:  
-######
-[![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2373-9647)
-
-
 
 
 <!--
