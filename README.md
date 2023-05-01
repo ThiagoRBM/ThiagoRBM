@@ -18,8 +18,9 @@ Tenho bastante interesse em Rust. Um dia chego nesse nível.
 ######
 Gosto de redes sociais em geral e apesar de ser muito na minha e quase nunca falar, frequento várias:
 ######
-[Mastodon](https://mastodon.social/@ThiagoRBM)    
-[![Intsgaram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago_rbm/)  
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/@ThiagoRBM)
+[![Intsgaram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago_rbm/)
+[![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2373-9647)
 [INaturalist](https://www.inaturalist.org/people/thiagorbm)  
 
 
