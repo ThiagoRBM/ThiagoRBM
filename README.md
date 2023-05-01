@@ -19,8 +19,8 @@ Tenho bastante interesse em Rust. Um dia chego nesse nível.
 Gosto de redes sociais em geral e apesar de ser muito na minha e quase nunca falar, frequento várias:
 ######
 [Mastodon](https://mastodon.social/@ThiagoRBM)  
-[Twtitter](https://twitter.com/ThiagoRBM)  
-[Intsgaram](https://www.instagram.com/thiago_rbm)  
+[Twtitter](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  
+![Intsgaram](https://www.instagram.com/thiago_rbm)  
 [INaturalist](https://www.inaturalist.org/people/thiagorbm)  
 
 
