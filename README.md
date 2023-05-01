@@ -21,7 +21,7 @@ Gosto de redes sociais em geral e apesar de ser muito na minha e quase nunca fal
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/@ThiagoRBM)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@ThiagoRBM)
 [![Intsgaram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago_rbm/)
-[INaturalist](https://www.inaturalist.org/people/thiagorbm)  
+[![INaturalist](https://img.shields.io/badge/inaturalist-74AC00?style=for-the-badge&logo=inaturalist&logoColor=white)](https://www.inaturalist.org/people/thiagorbm)  
 
 Formação acadêmica, publicações e etc:  
 ######
