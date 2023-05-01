@@ -24,6 +24,7 @@ Gosto de redes sociais em geral e apesar de ser muito na minha e quase nunca fal
 [INaturalist](https://www.inaturalist.org/people/thiagorbm)  
 
 Formação acadêmica, publicações e etc:  
+######
 [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2373-9647)
 
 
