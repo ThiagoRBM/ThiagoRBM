@@ -16,7 +16,6 @@ Tenho estudado mais "formalmente" python. Fiz o curso Python Base da LinuxTips e
 ######
 Tenho bastante interesse em Rust. Um dia chego nesse nível.
 ######
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorbm&layout=compact&theme=dark"/>
 
 ---
   
@@ -36,6 +35,9 @@ Formação acadêmica, publicações e etc:
 
 
 <!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorbm&layout=compact&theme=dark"/> # adicionar gadget que mostra linguagens, ver como fazer, estava com erro:
+ Maximum retries exceeded Please add an env variable called PAT_1 with your github token in vercel 
+
 **ThiagoRBM/ThiagoRBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
