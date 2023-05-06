@@ -16,7 +16,7 @@ Tenho estudado mais "formalmente" python. Fiz o curso Python Base da LinuxTips e
 ######
 Tenho bastante interesse em Rust. Um dia chego nesse nível.
 ######
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorbm&layout=compact&theme=dark"/>
 ---
   
 Formação acadêmica, publicações e etc:  
@@ -26,7 +26,7 @@ Formação acadêmica, publicações e etc:
   
 ---
   
- Gosto de redes sociais em geral e apesar de ser muito na minha e quase nunca falar, frequento várias:
+Gosto de redes sociais em geral e apesar de ser muito na minha e quase nunca falar, frequento várias:
 ######
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/@ThiagoRBM)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@ThiagoRBM)
