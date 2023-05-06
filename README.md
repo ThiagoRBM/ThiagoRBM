@@ -17,6 +17,7 @@ Tenho estudado mais "formalmente" python. Fiz o curso Python Base da LinuxTips e
 Tenho bastante interesse em Rust. Um dia chego nesse nível.
 ######
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorbm&layout=compact&theme=dark"/>
+
 ---
   
 Formação acadêmica, publicações e etc:  
